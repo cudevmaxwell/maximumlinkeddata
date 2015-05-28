@@ -6,10 +6,14 @@ Pull requests **very** welcome!
 
 Let's see how many N-Quads we can get to before [OR2015](http://www.or2015.net/) starts.
 
+##Rules: 
+
+You can only use data that can be found at [https://scholarworks.iupui.edu/handle/1805/6451](https://scholarworks.iupui.edu/handle/1805/6451). For example, we can't go and find the http://xmlns.com/foaf/spec/#term_homepage for the author. 
+
 ##Current status: 
 
-* 8 N-Quads at 2312 Characters
-* 3 Prefixes/Contexts
+* 11 N-Quads at 2948 Characters
+* 4 Prefixes/Contexts
 
 ##Tools: 
 
