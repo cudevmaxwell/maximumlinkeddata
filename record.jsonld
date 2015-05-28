@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "todo": "http://couldntfindaschema.oops",
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://scholarworks.iupui.edu/handle/1805/6451",
+      "@type": "http://schema.org/ScholarlyArticle",
+      "dc:date": "2015",
+      "dc:identifier": "http://hdl.handle.net/1805/6451",
+      "dc:identifier": "http://dx.doi.org/10.1188/15.CJON.19-01AP",
+      "dc:creator": "Von Ah, Diane",
+      "dc:subject": "cancer",
+      "dc:subject": "cancer treatment",
+      "dc:subject": "cognitive impairment",
+      "dc:description": "Background: Cognitive impairment is a distressing, disruptive, and potentially debilitating symptom that can occur as a direct result of cancer or its treatment. National organizations have identified cognitive impairment as a challenge many survivors face and call for research to address this problem. Despite the priority, research is still relatively limited and questions remain unanswered about prevalence and impact on survivors, as well as coping strategies and effective treatment options available to address this potentially debilitating problem. Objectives: The purpose of this article is to (a) analyze the prevalence and types of cognitive impairment that commonly affect survivors; (b) delineate the impact that cognitive impairment after cancer and cancer treatment has on self-esteem, social relationships, work ability, and overall quality of life among survivors; and (c) synthesize and appraise commonly used coping strategies used by survivors to address cognitive impairment and evidence-based interventions that may be incorporated into clinical practice. Methods: A comprehensive review and synthesis of the literature was conducted. Findings: Evidence-based interventions to address cognitive changes after cancer and cancer treatment are limited. However, emerging research has demonstrated that nonpharmacologic treatments, such as cognitive training, are likely to be effective." ,
+      "todo:foundAt": "ONS",
+      "schema:version": "Author's manuscript"      
+    }
+    
+  ]
+}
