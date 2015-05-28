@@ -8,9 +8,10 @@ Let's see how many N-Quads we can get to before [OR2015](http://www.or2015.net/)
 
 ##Current status: 
 
-* 8 N-Quads
+* 8 N-Quads at 2312 Characters
 * 3 Prefixes/Contexts
 
 ##Tools: 
 
 [JSON-LD Playground](http://json-ld.org/playground/index.html)
+
