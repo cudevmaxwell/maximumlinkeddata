@@ -12,8 +12,8 @@ You can only use data that can be found at [https://scholarworks.iupui.edu/handl
 
 ##Current status: 
 
-* 11 N-Quads at 2948 Characters
-* 4 Prefixes/Contexts
+* 5680 N-Quads at 1,376,898 Characters
+* 8 Prefixes/Contexts
 
 ##Tools: 
 
